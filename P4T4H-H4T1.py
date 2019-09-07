@@ -158,8 +158,8 @@ def usage():
 	Script ini sudah saya crack lagi dengan script trojan saya .
 	Saya tidak pertanggung jawab kalo kalian terlacak sama pihak websitenya :).
 	Script ini recode ke bahasa indonesia dari script Hammer Dan di modifikasi oleh saya v.1 \n
-	cara pakai : python3 jurusreo.py [-s] [-p] [-t]
-	contoh : python3 jurusreo.py -s 192.168.0.1 -p 80 -t 250	
+	cara pakai : python3 P4T4H-H4T1.py [-s] [-p] [-t]
+	contoh : python3 P4T4H-H4T1.py -s 192.168.0.1 -p 80 -t 250	
 	-h : help
 	-s : alamat ip target
 	-p : port target, contoh 80
